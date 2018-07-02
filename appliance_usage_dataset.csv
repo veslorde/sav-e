@@ -1,4 +1,4 @@
-ApplianceID,Type,Model,Description,Wattage,Usag Date,UsageTime,kWh,Cost
+ApplianceID,Type,Model,Description,Wattage,UsageDate,UsageTime,kWh,Cost
 16,Induction Cooker,Standard,Induction cooker double burner,3000,6/1/2018,0.017,0.051,0.54
 11,Washing Machine,Standard,Front Load Washer-Dryer 10 kg.,2500,6/1/2018,0.033,0.083,0.87
 15,Electric Kettle,Standard,Electric kettle 2 liters,1850,6/1/2018,0.05,0.093,0.98
